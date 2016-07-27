@@ -1,7 +1,7 @@
 Work in progress.
 
 
-This is a strategy for passport.js that uses to Steam Auth Tickets for sessionless auth based on the Steam ID extracted from the ticket.
+This is a strategy for passport.js that uses Steam Auth Tickets for sessionless auth based on the Steam ID extracted from the ticket.
 
 
 This is different than passport-steam, which makes use of Steam's OpenID login.
